@@ -1,1 +1,2231 @@
-# fetched thigs paste here
+[
+  {
+    "category": "Cricket",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+    "league_name": "ICC T20 World Cup",
+    "start_time": "07/02/2026 09:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/187760/image",
+    "team_a_name": "WI",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/187576/image",
+    "team_b_name": "SCO"
+  },
+  {
+    "category": "Cricket",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+    "league_name": "ICC T20 World Cup",
+    "start_time": "07/02/2026 13:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/187765/image",
+    "team_a_name": "IND",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/199276/image",
+    "team_b_name": "USA"
+  },
+  {
+    "category": "Cricket",
+    "end_time": "04/02/2026 16:30:00",
+    "league_logo": "https://img.sofascore.com/api/v1/unique-tournament/11182/image",
+    "league_name": "ICC U19 World Cup",
+    "start_time": "04/02/2026 07:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "c5a1d6241454907a7c0d85784f3ec4ea:9b35cec32f04a69564883b03ce93b359",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zohbv1lfhy/out/v1/e15f7d579a8e484b9c34f10cade5e940/cenc.mpd",
+          "name": "WILLOW - FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "f159241d40e659d58e81bc17ca30da31:6b7fe24f7a16343bd447b0b30f68b7b2",
+          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/att545vfjr/out/v1/450d606c6a17471f84d09372f55004e2/cenc.mpd",
+          "name": "PRIME - FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd",
+          "name": "WILLOW - SD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/213103/image",
+    "team_a_name": "AFG U19",
+    "team_b_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWwGrBzJ98sHubUETGRLK2VVaA5lMHcVPmw&s",
+    "team_b_name": "IND U19"
+  },
+  {
+    "category": "Cricket",
+    "end_time": "04/02/2026 19:10:00",
+    "league_logo": "https://www.fancode.com/skillup-uploads/cms-media/World-Legend-T20-League.png",
+    "league_name": "World Legends Pro T20 League",
+    "start_time": "04/02/2026 14:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://in-mc-fdlive.fancode.com/mumbai/140089_english_hls_3c1abd5aef39468_1ta-di_h264/index.m3u8",
+          "name": "FANCODE - IND IP",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://bd-mc-fdlive.fancode.com/mumbai/140089_english_hls_3c1abd5aef39468_1ta-di_h264/index.m3u8",
+          "name": "FANCODE - BD IP",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e",
+          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "name": "WILLOW - FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYnsE6p7tYtkOevvmQhcI_TZpwIR4qxwV90XcjnIa0hA&s",
+    "team_a_name": "LEGENDS T20",
+    "team_b_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYnsE6p7tYtkOevvmQhcI_TZpwIR4qxwV90XcjnIa0hA&s",
+    "team_b_name": "LEGENDS T20"
+  },
+  {
+    "category": "Tennis",
+    "end_time": "29/01/2026 13:00:00",
+    "league_logo": "https://1000logos.net/wp-content/uploads/2020/09/Logo-Australian-Open.png",
+    "league_name": "Australian Open, Melbourn, Aust",
+    "start_time": "29/01/2026 00:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd",
+          "name": "SPORTIFy AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd",
+          "name": "SPORTIFy AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd",
+          "name": "SPORTIFy AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+          "name": "SPORTIFy AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+          "name": "SPORTIFy AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd",
+          "name": "SPORTIFy AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+          "name": "SPORTIFy AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+          "name": "SPORTIFy AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD1583/index.mpd",
+          "name": "ESPANYOL",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD1584/index.mpd",
+          "name": "ESPANYOL 2",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/unique-tournament/2363/image",
+    "team_a_name": "ATP",
+    "team_b_logo": "https://img.sofascore.com/api/v1/unique-tournament/2363/image",
+    "team_b_name": "ATP"
+  },
+  {
+    "category": "Cricket",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+    "league_name": "ICC T20 World Cup",
+    "start_time": "07/02/2026 05:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "d37acaacb5e509d77ddb5eee498d506a:e3cf90a806fe71bb3d2d3dd48b930395",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8klpkb1lc9/out/v1/e35366cf215c4652882f8973a128be4e/cenc.mpd",
+          "name": "Link 1",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/187754/image",
+    "team_a_name": "PAK",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/187840/image",
+    "team_b_name": "NED"
+  },
+  {
+    "category": "Cricket",
+    "end_time": "05/02/2026 19:30:00",
+    "league_logo": "https://img.sofascore.com/api/v1/unique-tournament/19974/image",
+    "league_name": "Women Premier League Final",
+    "start_time": "05/02/2026 14:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "ebdc8a88125fbf460665d0a41a1fe5ad:2caf1b507b353683813a9781a270b2af",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/luwl1bayv6/out/v1/a34b4b4cc3e6436ebdfa722ee109a583/cenc.mpd",
+          "name": "WILLOW - FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://allrounderlive.pages.dev/dilz?id=65656576",
+          "name": "HINDI - AQ",
+          "scheme": 0,
+          "tokenApi": "{\"url\":\"https:\\/\\/allrounderlive.pages.dev\\/dilz?id=65656576\",\"api\":\"https:\\/\\/allrounderlive.pages.dev\\/dilz?id=65656576\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"9HY(#b1q6\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://a.ukyuhevfd.shop/hls/AFFFQQ.m3u8|referer=http://www.fawanews.sc/",
+          "name": "SPORTIFy LIVE - LQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://Dishtv.pages.dev/?id=Hindi",
+          "name": "HINDI - 2",
+          "scheme": 0,
+          "tokenApi": "{\"url\":\"https:\\/\\/Dishtv.pages.dev\\/?id=Hindi\",\"api\":\"https:\\/\\/Dishtv.pages.dev\\/?id=Hindi\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"9HY(#b1q6\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "9dc5ddd99e3c723bf109a504da715dac:d39d55e9ba386a86641ca9668abf2b0d",
+          "link": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife_Women_27112025/DASH/CricLife_Women_27112025.mpd",
+          "name": "CricLife - FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/463895/image",
+    "team_a_name": "RCB W",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/463896/image",
+    "team_b_name": "DC W"
+  },
+  {
+    "category": "Cricket",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/19248/image/dark",
+    "league_name": "ICC T20 World Cup Warm-up",
+    "start_time": "05/02/2026 11:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/187746/image",
+    "team_a_name": "AUS",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/187840/image",
+    "team_b_name": "NED"
+  },
+  {
+    "category": "Cricket",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/19248/image/dark",
+    "league_name": "ICC T20 World Cup Warm-up",
+    "start_time": "05/02/2026 07:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/187772/image",
+    "team_a_name": "NEP",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/189195/image",
+    "team_b_name": "CAN"
+  },
+  {
+    "category": "Cricket",
+    "end_time": "03/02/2026 18:30:00",
+    "league_logo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
+    "league_name": "T20 International",
+    "start_time": "03/02/2026 13:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+          "name": "TNT SPORTS - FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+          "name": "SPORTIFy LIVE - HD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://cdn16348712.blazingcdn.net/dx14sd/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+          "name": "SPORTIFy LIVE - SD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://a.ukyuhevfd.shop/hls/AFFFQ.m3u8|referer=http://www.fawanews.sc/",
+          "name": "SPORTIFy LIVE - LQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI35-criclive/master.m3u8?hdnea=exp=1769970602~acl=/*~id=75057909265163929955051946474872~hmac=3017f578f8f2ff084187b62fa0d78f219e469959f026f0abfe44784a05b3f124|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; HY300; Build/SP1A.210812.015)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+          "name": "SONYLIV",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/187756/image",
+    "team_a_name": "SL",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/187757/image",
+    "team_b_name": "ENG"
+  },
+  {
+    "category": "Cricket",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/19248/image/dark",
+    "league_name": "ICC T20 World Cup Warm-up",
+    "start_time": "05/02/2026 05:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/187745/image",
+    "team_a_name": "ZIM",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/199279/image",
+    "team_b_name": "OMA"
+  },
+  {
+    "category": "Cricket",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/19248/image/dark",
+    "league_name": "ICC T20 World Cup Warm-up",
+    "start_time": "04/02/2026 13:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/187765/image",
+    "team_a_name": "IND",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/187747/image",
+    "team_b_name": "SA"
+  },
+  {
+    "category": "Cricket",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/19248/image/dark",
+    "league_name": "ICC T20 World Cup Warm-up",
+    "start_time": "06/02/2026 09:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/417772/image",
+    "team_a_name": "ITA",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/187771/image",
+    "team_b_name": "UAE"
+  },
+  {
+    "category": "Cricket",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/19248/image/dark",
+    "league_name": "ICC T20 World Cup Warm-up",
+    "start_time": "06/02/2026 11:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/199275/image",
+    "team_a_name": "NAM",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/288538/image",
+    "team_b_name": "IND-A"
+  },
+  {
+    "category": "Boxing",
+    "end_time": "11/02/2026 04:00:00",
+    "league_logo": "https://loodibee.com/wp-content/uploads/World-Wrestling-Entertainment-WWE-Logo-2014.png",
+    "league_name": "WWE NXT",
+    "start_time": "11/02/2026 00:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://android-database1.firebase-api.com/AccessLog2/108085_SD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+          "name": "SPORTIFy SD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
+          "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
+          "name": "SPORTIFy AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://i.ibb.co/mrYSQqvn/reduced-1000629328.jpg",
+    "team_a_name": "WWE NXT",
+    "team_b_logo": "https://i.ibb.co/mrYSQqvn/reduced-1000629328.jpg",
+    "team_b_name": "WWE NXT"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
+    "league_name": "Türkiye Kupası",
+    "start_time": "04/02/2026 15:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/7802/image",
+    "team_a_name": "Gençlerbirliği",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/7040/image",
+    "team_b_name": "Eyüpspor"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
+    "league_name": "Türkiye Kupası",
+    "start_time": "04/02/2026 12:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/4954/image",
+    "team_a_name": "Karagümrük",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/3086/image",
+    "team_b_name": "Başakşehir"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "league_name": "UEFA Youth League",
+    "start_time": "04/02/2026 17:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/275789/image",
+    "team_a_name": "Real Betis U19",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/90146/image",
+    "team_b_name": "Tottenham U19"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/335/image/dark",
+    "league_name": "Coupe de France",
+    "start_time": "04/02/2026 19:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/1656/image",
+    "team_a_name": "Lorient",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/6070/image",
+    "team_b_name": "Paris"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "league_name": "UEFA Youth League",
+    "start_time": "04/02/2026 15:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/206368/image",
+    "team_a_name": "HJK Helsinki U19",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/120856/image",
+    "team_b_name": "Man City U19"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
+    "league_name": "Türkiye Kupası",
+    "start_time": "04/02/2026 17:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/3061/image",
+    "team_a_name": "Galatasaray",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/3066/image",
+    "team_b_name": "İstanbulspor"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/335/image/dark",
+    "league_name": "Coupe de France",
+    "start_time": "04/02/2026 19:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/1661/image",
+    "team_a_name": "Nice",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/1642/image",
+    "team_b_name": "Montpellier"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/335/image/dark",
+    "league_name": "Coupe de France",
+    "start_time": "04/02/2026 19:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/1681/image",
+    "team_a_name": "Toulouse",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/1676/image",
+    "team_b_name": "Amiens"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/335/image/dark",
+    "league_name": "Coupe de France",
+    "start_time": "04/02/2026 19:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/1649/image",
+    "team_a_name": "Lyon",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/1673/image",
+    "team_b_name": "Laval"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "league_name": "UEFA Youth League",
+    "start_time": "04/02/2026 15:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/241765/image",
+    "team_a_name": "Maccabi Haifa U19",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/90128/image",
+    "team_b_name": "Barcelona U19"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/330/image/dark",
+    "league_name": "Eurojackpot KNVB Beker",
+    "start_time": "04/02/2026 17:45:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/2962/image",
+    "team_a_name": "NEC",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/2968/image",
+    "team_b_name": "Volendam"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "league_name": "UEFA Youth League",
+    "start_time": "04/02/2026 13:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/90138/image",
+    "team_a_name": "PSG U19",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/491481/image",
+    "team_b_name": "Dinamo M. U19"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "league_name": "UEFA Youth League",
+    "start_time": "04/02/2026 15:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/206355/image",
+    "team_a_name": "Villarreal U19",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/43716/image",
+    "team_b_name": "Leverkusen U19"
+  },
+  {
+    "category": "Cricket",
+    "end_time": "06/02/2026 17:00:00",
+    "league_logo": "https://img.sofascore.com/api/v1/unique-tournament/11182/image",
+    "league_name": "ICC U19 World Cup",
+    "start_time": "06/02/2026 07:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "241b3705f104f5cd86e112b6987bc939:7267286ea3401d5472b377742894ed39",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/926qhyrwui/out/v1/8dd59c652f0844dd983d20d10e99c4a1/cenc.mpd",
+          "name": "WILLOW - FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "f159241d40e659d58e81bc17ca30da31:6b7fe24f7a16343bd447b0b30f68b7b2",
+          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/att545vfjr/out/v1/450d606c6a17471f84d09372f55004e2/cenc.mpd",
+          "name": "PRIME - FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb",
+          "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1770131602~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=9a8c906e-a026-4af4-827b-fcfeeacfa4cf~data=hdntl~hmac=271da724f070075e226ed908136361c7ef4a2e0831dbc13e071a62589a36b2df/manifest.mpd",
+          "name": "ICC TV - FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWwGrBzJ98sHubUETGRLK2VVaA5lMHcVPmw&s",
+    "team_a_name": "IND U19",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/187757/image",
+    "team_b_name": "ENG U19"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "league_name": "UEFA Youth League",
+    "start_time": "04/02/2026 13:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/114685/image",
+    "team_a_name": "Legia Warszawa U19",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/90118/image",
+    "team_b_name": "Ajax U19"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "league_name": "UEFA Youth League",
+    "start_time": "04/02/2026 17:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/43720/image",
+    "team_a_name": "Köln U19",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/42728/image",
+    "team_b_name": "Inter U19"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "league_name": "Brasileirão Betano",
+    "start_time": "04/02/2026 18:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/1967/image",
+    "team_a_name": "Athletico",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/1957/image",
+    "team_b_name": "Corinthians"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "league_name": "UEFA Youth League",
+    "start_time": "04/02/2026 15:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/206352/image",
+    "team_a_name": "Puskás U19",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/78151/image",
+    "team_b_name": "Sporting U19"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "league_name": "UEFA Youth League",
+    "start_time": "04/02/2026 15:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/78135/image",
+    "team_a_name": "Benfica U19",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/44163/image",
+    "team_b_name": "Slavia Praha U19"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/336/image/dark",
+    "league_name": "Taça de Portugal",
+    "start_time": "04/02/2026 20:15:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/45146/image",
+    "team_a_name": "AD Fafe",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/25787/image",
+    "team_b_name": "Torreense"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
+    "league_name": "Türkiye Kupası",
+    "start_time": "05/02/2026 10:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/6366/image",
+    "team_a_name": "Keçiörengücü",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/5138/image",
+    "team_b_name": "Gaziantep"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "league_name": "Brasileirão Betano",
+    "start_time": "04/02/2026 22:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/5981/image",
+    "team_a_name": "Flamengo",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/1966/image",
+    "team_b_name": "Internacional"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+    "league_name": "Scottish Premiership",
+    "start_time": "04/02/2026 20:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/2355/image",
+    "team_a_name": "Aberdeen",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/2352/image",
+    "team_b_name": "Celtic"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/1612/image/dark",
+    "league_name": "U20 CONMEBOL Women's Championship",
+    "start_time": "04/02/2026 21:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/48983/image",
+    "team_a_name": "Paraguay U20",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/48989/image",
+    "team_b_name": "Chile U20"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "league_name": "Brasileirão Betano",
+    "start_time": "05/02/2026 00:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/5926/image",
+    "team_a_name": "Grêmio",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/1958/image",
+    "team_b_name": "Botafogo"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark",
+    "league_name": "DFB Pokal",
+    "start_time": "04/02/2026 19:45:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/2573/image",
+    "team_a_name": "Kiel",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/2677/image",
+    "team_b_name": "Stuttgart"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "league_name": "Brasileirão Betano",
+    "start_time": "04/02/2026 22:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/1999/image",
+    "team_a_name": "RB Bragantino",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/1977/image",
+    "team_b_name": "Atlético-MG"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
+    "league_name": "Coppa Italia",
+    "start_time": "04/02/2026 20:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/2697/image",
+    "team_a_name": "Inter",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/2696/image",
+    "team_b_name": "Torino"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+    "league_name": "Scottish Premiership",
+    "start_time": "04/02/2026 19:45:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/2351/image",
+    "team_a_name": "Rangers",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/2347/image",
+    "team_b_name": "Kilmarnock"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
+    "league_name": "Copa del Rey",
+    "start_time": "04/02/2026 20:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/2828/image",
+    "team_a_name": "Valencia",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/2825/image",
+    "team_b_name": "Athletic Club"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+    "league_name": "EFL Cup",
+    "start_time": "04/02/2026 20:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/17/image",
+    "team_a_name": "Man City",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/39/image",
+    "team_b_name": "Newcastle"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "league_name": "Brasileirão Betano",
+    "start_time": "04/02/2026 23:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/2012/image",
+    "team_a_name": "Remo",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/21982/image",
+    "team_b_name": "Mirassol"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+    "league_name": "Scottish Premiership",
+    "start_time": "04/02/2026 19:45:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/2357/image",
+    "team_a_name": "Dundee",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/2346/image",
+    "team_b_name": "Motherwell"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/330/image/dark",
+    "league_name": "Eurojackpot KNVB Beker",
+    "start_time": "04/02/2026 20:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/2952/image",
+    "team_a_name": "PSV",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/2964/image",
+    "team_b_name": "Heerenveen"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
+    "league_name": "Coppa Italia",
+    "start_time": "04/02/2026 22:59:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/2685/image",
+    "team_a_name": "Bologna",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/2699/image",
+    "team_b_name": "Lazio"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "league_name": "Brasileirão Betano",
+    "start_time": "04/02/2026 23:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/1968/image",
+    "team_a_name": "Santos",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/1981/image",
+    "team_b_name": "São Paulo"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
+    "league_name": "Copa del Rey",
+    "start_time": "04/02/2026 20:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/2885/image",
+    "team_a_name": "Alavés",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/2824/image",
+    "team_b_name": "Real Sociedad"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/335/image/dark",
+    "league_name": "Coupe de France",
+    "start_time": "04/02/2026 20:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/1652/image",
+    "team_a_name": "Troyes",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/1648/image",
+    "team_b_name": "Lens"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "league_name": "Brasileirão Betano",
+    "start_time": "05/02/2026 00:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/1963/image",
+    "team_a_name": "Palmeiras",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/1962/image",
+    "team_b_name": "Vitória"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/1612/image/dark",
+    "league_name": "U20 CONMEBOL Women's Championship",
+    "start_time": "04/02/2026 21:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/48979/image",
+    "team_a_name": "Uruguay U20",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/48978/image",
+    "team_b_name": "Venezuela U20"
+  },
+  {
+    "category": "Football",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+    "league_name": "Scottish Premiership",
+    "start_time": "04/02/2026 19:45:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "cookie": "",
+          "headers": {
+
+          },
+          "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+          "name": "SPORTIFy TV",
+          "url": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/2354/image",
+    "team_a_name": "Hibernian",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/2349/image",
+    "team_b_name": "Dundee Utd"
+  },
+  {
+    "category": "Football",
+    "end_time": "31/01/2026 16:50:00",
+    "league_logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/54.png",
+    "league_name": "Bundesliga Conference",
+    "start_time": "31/01/2026 14:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "5ff8b1c2bfe7f365558c84dacee3ea8c:cfb135e777e45e57fe0637da00800cde",
+          "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/w7ab9k2tub/out/v1/2bd0e976da9d49f081727acbc6d6ba97/cenc.mpd",
+          "name": "SPORTIFy AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+    "team_a_name": "Bundesliga",
+    "team_b_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+    "team_b_name": "Bundesliga"
+  },
+  {
+    "category": "Boxing",
+    "end_time": "10/02/2026 04:00:00",
+    "league_logo": "https://loodibee.com/wp-content/uploads/World-Wrestling-Entertainment-WWE-Logo-2014.png",
+    "league_name": "Monday Night Raw",
+    "start_time": "10/02/2026 00:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://android-database1.firebase-api.com/AccessLog2/108085_SD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+          "name": "SPORTIFy LIVE - SD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
+          "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
+          "name": "SPORTIFy LIVE - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://i.ibb.co/WWVmYQcG/20251125-230453.png",
+    "team_a_name": "WWE RAW",
+    "team_b_logo": "https://i.ibb.co/WWVmYQcG/20251125-230453.png",
+    "team_b_name": "WWE RAW"
+  },
+  {
+    "category": "Boxing",
+    "end_time": "05/02/2026 05:00:00",
+    "league_logo": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
+    "league_name": "AEW Dynamite",
+    "start_time": "05/02/2026 00:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd",
+          "name": "SPORTIFy LIVE - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+          "name": "SPORTIFy LIVE - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://android-database1.firebase-api.com/AccessLog2/108085_SD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+          "name": "SPORTIFy LIVE - HD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "http://205.237.104.133/hls/DZZZ.m3u8|referer=http://www.fawanews.sc/",
+          "name": "SPORTIFy LIVE - HD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD4CtXLwYAbtTpwhdSTfIy95tQKAM-OFD97Qri_4PMsw&s=10",
+    "team_a_name": "AEW",
+    "team_b_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD4CtXLwYAbtTpwhdSTfIy95tQKAM-OFD97Qri_4PMsw&s=10",
+    "team_b_name": "AEW"
+  },
+  {
+    "category": "Boxing",
+    "end_time": "09/01/2026 04:00:00",
+    "league_logo": "https://static.wikia.nocookie.net/logopedia/images/7/78/TNA_Impact_%282024%29_Logo.svg/revision/latest/scale-to-width-down/284?cb=20240429164411",
+    "league_name": "TNA iMPACT",
+    "start_time": "09/01/2026 00:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://gg.poocloud.in/wrestling/index.m3u8?|Referer=https://pooembed.top/&Origin=https://pooembed.top",
+          "name": "SPORTIFy HD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://android-database1.firebase-api.com/AccessLog2/108087_SD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+          "name": "SPORTIFy HD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://embedsports.top/embed/admin/ppv-tna-impact/1",
+          "name": "SPORTIFy HD",
+          "scheme": 0,
+          "tokenApi": "{\"url\":\"https:\\/\\/embedsports.top\\/embed\\/admin\\/ppv-tna-impact\\/1\",\"api\":\"https:\\/\\/embedsports.top\\/embed\\/admin\\/ppv-tna-impact\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"9HY(#b1q6\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+        }
+      }
+    ],
+    "team_a_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiDNfv9gghV940Sqe3yK0Ff2ZA5XA05VjxBw&s",
+    "team_a_name": "TNA iMPACT",
+    "team_b_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiDNfv9gghV940Sqe3yK0Ff2ZA5XA05VjxBw&s",
+    "team_b_name": "TNA iMPACT"
+  },
+  {
+    "category": "Boxing",
+    "end_time": "16/01/2026 16:30:00",
+    "league_logo": "https://static.wikia.nocookie.net/logopedia/images/0/07/OneFightingChampionshipLogo.png/revision/latest?cb=20250114105957",
+    "league_name": "One Fighting Championship",
+    "start_time": "16/01/2026 11:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+          "name": "LINK 1",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "{\n    \"keys\": [\n        {\n            \"kty\": \"oct\",\n            \"k\": \"MNW1eZZtgishXsUakdiicQ\",\n            \"kid\": \"YNwIquUvTAuAao5D8koSyA\"\n        }\n    ],\n    \"type\": \"temporary\"\n}",
+          "link": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+          "name": "LINK 2",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
+          "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
+          "name": "LINK 3",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
+          "name": "LINK 4",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJtmVeaW8MXfpiZtx6b2S_SFqa-VNXUmSq_uW_6lxuWQ&s=10",
+    "team_a_name": "Friday Fights",
+    "team_b_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJtmVeaW8MXfpiZtx6b2S_SFqa-VNXUmSq_uW_6lxuWQ&s=10",
+    "team_b_name": "Friday Fights"
+  },
+  {
+    "category": "Football",
+    "end_time": "31/01/2026 17:20:00",
+    "league_logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
+    "league_name": "EPL Goal Rush",
+    "start_time": "31/01/2026 14:55:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "0d7762d99dd4e4a2f010bebb0a00c981:ed97592e5d9b63405065b66e3a2d1215",
+          "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rmyuydta6g/out/v1/2114fbee6b964f1ba472eed32fc43410/cenc.mpd",
+          "name": "PEACOCK ENGLISH FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89",
+          "link": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd",
+          "name": "SKY SPORTS EPL FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
+    "team_a_name": "EPL",
+    "team_b_logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
+    "team_b_name": "EPL"
+  },
+  {
+    "category": "Boxing",
+    "end_time": "07/02/2026 05:00:00",
+    "league_logo": "https://i.ibb.co/mrYvwHkJ/World-Wrestling-Entertainment-WWE-Logo-2014.png",
+    "league_name": "Friday Night SmackDown",
+    "start_time": "07/02/2026 00:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://pl4.wecanfix5.space/playlist/43392/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "SPORTIFy LIVE - FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://android-database1.firebase-api.com/AccessLog2/108085_SD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+          "name": "SPORTIFy LIVE - SD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41",
+          "link": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
+          "name": "USA TV - USA VPN",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://i.ibb.co/nsJJkp61/20250513-152753.jpg",
+    "team_a_name": "SmackDown",
+    "team_b_logo": "https://i.ibb.co/nsJJkp61/20250513-152753.jpg",
+    "team_b_name": "SmackDown"
+  },
+  {
+    "category": "Boxing",
+    "end_time": "01/02/2026 05:00:00",
+    "league_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1200px-UFC_Logo.svg.png",
+    "league_name": "UFC Fight Night Main Card",
+    "start_time": "01/02/2026 00:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "63867ca40427cb9b64ac1ac34c8b7283:b361070c4ba4efd0a90b98294efe8632",
+          "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zdixenzgj1/out/v1/93add4a89bd54ad882fbf4bdb091cf99/cenc.mpd",
+          "name": "SPORTIFy AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "86e99aa029d030dd92c44a050371b53d:c069758538c001e48eb8b36c2db2d515",
+          "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gxfoiwuf5f/out/v1/27764d13c6574b75b3f556360c2b3f13/cenc.mpd",
+          "name": "SPORTIFy AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd",
+          "name": "SPORTIFy AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "39bc65e1b683db44460338d881c5577e:ad1762308040904c1ac40dff5c52eb78",
+          "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wafubl9ljj/out/v1/852cf76f94634a4baa8ea8da481f8493/cenc.mpd",
+          "name": "SPORTIFy AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://red1.ignitelaunch.shop/playlist/43964/load-playlist?|Referer=https://gooz.aapmains.net/",
+          "name": "SPORTIFy HD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://601.xn--1000-ugoxe8a5a7g4h.com/ataide.m3u8",
+          "name": "SPORTIFy HD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/467404/image",
+    "team_a_name": "A. Volkanovski",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/475844/image",
+    "team_b_name": "D. Lopes"
+  },
+  {
+    "category": "Cricket",
+    "end_time": "04/02/2026 13:45:00",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/19248/image/dark",
+    "league_name": "ICC T20 World Cup Warm-up",
+    "start_time": "04/02/2026 09:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "33f62a67b5d1dd3dc393334890772a12:1291d6826a462a359dc9dbe5860436d7",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3ectzz1nzi/out/v1/74f22ab7b9cc4c828388c72cdbecfacd/cenc.mpd",
+          "name": "WILLOW - FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/187575/image",
+    "team_a_name": "AFG",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/187760/image",
+    "team_b_name": "WI"
+  },
+  {
+    "category": "Motorsports",
+    "end_time": "",
+    "league_logo": "https://i.ibb.co/TBR8q3Bm/mgpp.png",
+    "league_name": "MotoGP",
+    "start_time": "05/02/2026 14:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://gg.poocloud.in/pl_goalrush/tracks-v1a1/mono.ts.m3u8?|Referer=https://pooembed.top/&Origin=https://pooembed.top",
+          "name": "SPORTIFy HD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://i.ibb.co/TBR8q3Bm/mgpp.png",
+    "team_a_name": "MotoGP",
+    "team_b_logo": "https://i.ibb.co/TBR8q3Bm/mgpp.png",
+    "team_b_name": "MotoGP"
+  },
+  {
+    "category": "Football",
+    "end_time": "04/02/2026 12:10:00",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
+    "league_name": "Türkiye Kupası",
+    "start_time": "04/02/2026 10:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "http://205.237.105.197/hls/jttt.m3u8|referer=http://www.fawanews.sc/",
+          "name": "SPORTIFy SD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/6414/image",
+    "team_a_name": "Boluspor",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/6362/image",
+    "team_b_name": "Alanyaspor"
+  },
+  {
+    "category": "Cricket",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/19248/image/dark",
+    "league_name": "ICC T20 World Cup Warm-up",
+    "start_time": "04/02/2026 11:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "d37acaacb5e509d77ddb5eee498d506a:e3cf90a806fe71bb3d2d3dd48b930395",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8klpkb1lc9/out/v1/e35366cf215c4652882f8973a128be4e/cenc.mpd",
+          "name": "Willow HD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://tencentcdn1.tamashaweb.com/v1/019270c9d9cb1ea5069517c2d441eb/019270d5a4f11ea5578a17c4df535f/main.m3u8",
+          "name": "TAMASHA",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/187754/image",
+    "team_a_name": "PAK",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/187766/image",
+    "team_b_name": "IRE"
+  },
+  {
+    "category": "Football",
+    "end_time": "04/02/2026 06:10:00",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/498/image/dark",
+    "league_name": "CONCACAF Champions Cup",
+    "start_time": "04/02/2026 04:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+          "link": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "name": "SPORTIFy AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://play.ltwxsc.com/live/hd-en-6MvZ64e1YbR8homLmc.m3u8?txSecret=5b7c9e093098c373f1525015997a7a5a&txTime=6982F05F",
+          "name": "SPORTIFy HD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://in-mc-fdlive.fancode.com/mumbai/140370_english_hls_826cbd474579774_1ta-di_h264/index.m3u8",
+          "name": "FANCODE (IND)",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://bd-mc-fdlive.fancode.com/mumbai/140370_english_hls_826cbd474579774_1ta-di_h264/index.m3u8",
+          "name": "FANCODE (BD)",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1770185134-0-0-9a885ddddb7c28e23ae239838e068ef8",
+          "name": "CRICZ (BACKUP)",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1770185134-0-0-5b9f6a39099d7f532393a1ffcaa21fa1",
+          "name": "FAST SERVER",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/1043961/image",
+    "team_a_name": "San Diego FC",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/1933/image",
+    "team_b_name": "Pumas"
+  },
+  {
+    "category": "Motorsports",
+    "end_time": "",
+    "league_logo": "https://i.ibb.co/gLNzGw6c/formula-1-logo-brandlogos-net.png",
+    "league_name": "Formula 1",
+    "start_time": "18/02/2026 11:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+          "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "name": "FC - FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "62ac0f0c382a696058c8598821d6591d:75a5350cc5bc7eb38efeb694ec13e0a0",
+          "link": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mayn9zpunj/out/v1/5623834d108749bebb71979abdfe7dd8/cenc.mpd",
+          "name": "SKY SPORTS F1",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+          "name": "FOX SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e",
+          "link": "https://abm5x5xaaaaaaaamjwfbpek7fak66.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd",
+          "name": "TSN",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://ishitasinghisabum.xyz/live/etihad-airways-abu-dhabi-grand-prix1080p/index.m3u8",
+          "name": "SPORTIFy HD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://red9.lumenlyra.space/playlist/40629/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "SPORTIFy HD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "name": "SPORTIFy LQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://broadcasthub.click/hls/RdKfpotjL5g/index.m3u8",
+          "name": "SPORTIFy SD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://broadcasthub.click/hls/07HL6dzqKCAr/index.m3u8",
+          "name": "SPORTIFy SD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      },
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://broadcasthub.click/hls/2TwVTzn52PwS/index.m3u8",
+          "name": "SPORTIFy SD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3gK5Xue6lZKz0AXCZbx3CLTuwnHCasxVTw&usqp=CAU",
+    "team_a_name": "Formula 1",
+    "team_b_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3gK5Xue6lZKz0AXCZbx3CLTuwnHCasxVTw&usqp=CAU",
+    "team_b_name": "Formula 1"
+  },
+  {
+    "category": "Cricket",
+    "end_time": "",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/19248/image/dark",
+    "league_name": "ICC T20 World Cup Warm-up",
+    "start_time": "04/02/2026 07:30:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/187576/image",
+    "team_a_name": "SCO",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/199275/image",
+    "team_b_name": "NAM"
+  },
+  {
+    "category": "Football",
+    "end_time": "04/02/2026 11:10:00",
+    "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "league_name": "UEFA Youth League",
+    "start_time": "04/02/2026 09:00:00",
+    "stream_link": [
+      {
+        "full_source_data": {
+          "api": "",
+          "link": "https://live.inplyr.com/room/283501.m3u8",
+          "name": "SPORTIFy FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      }
+    ],
+    "team_a_logo": "https://img.sofascore.com/api/v1/team/107707/image",
+    "team_a_name": "Dynamo Kyiv U19",
+    "team_b_logo": "https://img.sofascore.com/api/v1/team/72022/image",
+    "team_b_name": "Atl. Madrid U19"
+  }
+]
